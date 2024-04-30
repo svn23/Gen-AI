@@ -24,7 +24,7 @@ Google Gemini API to provide users with a comprehensive suite of advanced featur
 ## Badges
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-![PyPI - Implementation](https://img.shields.io/pypi/implementation/:packageName)]
+![PyPI - Implementation](https://img.shields.io/pypi/implementation/:packageName)
 ![GitHub language count](https://img.shields.io/github/languages/count/svn23/Gen-AI)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
