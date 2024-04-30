@@ -7,7 +7,8 @@ Google Gemini API to provide users with a comprehensive suite of advanced featur
 
 
 
-## Features
+
+## :rocket:Features
 
 - Chatbot
 - Image Recognization
@@ -17,11 +18,11 @@ Google Gemini API to provide users with a comprehensive suite of advanced featur
 - Multi-PDF Conversation
 
 
-## Team Members
+## :heart: Team Members
 
 - [@biswajit](https://github.com/Biswajit-Mohapatra2)
 - [@subhajit](https://github.com/subhajet) 
-## Badges
+## :beginner: Badges
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 ![PyPI - Implementation](https://img.shields.io/pypi/implementation/:packageName)
@@ -32,11 +33,11 @@ Google Gemini API to provide users with a comprehensive suite of advanced featur
 
 
 
-## License
+## :star2: License
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## Installation
+## :computer: Installation
 
 Install the project
 
@@ -54,7 +55,7 @@ Must have Visual Studio code v14 or above.
 
 
   
-## Running Tests
+## :zap: Running Tests
 
 To run tests, run the following command
 
@@ -67,7 +68,7 @@ To run tests, run the following command
 ![Screenshot (68)](https://github.com/svn23/Gen-AI/assets/102777649/267d2e02-375a-4854-adfe-69448a90ec60)
 ![Screenshot (67)](https://github.com/svn23/Gen-AI/assets/102777649/08f799b0-d979-4ce0-be2d-a30c53dcf5b1)
 
-## Tech Used
+## :electric_plug: Tech Used
 
 Python, Streamlit, Generative AI, Google Gemini AI
 
@@ -79,7 +80,7 @@ Python, Streamlit, Generative AI, Google Gemini AI
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SovanSen23)
 
 
-## Feedback
+## :microphone: Feedback
 
 If you have any feedback, please reach out to me at sovanmstse@gmail.com
 
