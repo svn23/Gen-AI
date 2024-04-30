@@ -61,7 +61,11 @@ To run tests, run the following command
 ```terminal
   streamlit run .\genai.py
 ```
-
+## Screenshots
+![Screenshot (53)](https://github.com/svn23/Gen-AI/assets/102777649/595680f7-4d14-42e1-998e-0dd8c42e01b0)
+![Screenshot (54)](https://github.com/svn23/Gen-AI/assets/102777649/72a21179-6864-4d0f-8bd0-144891850337)
+![Screenshot (68)](https://github.com/svn23/Gen-AI/assets/102777649/267d2e02-375a-4854-adfe-69448a90ec60)
+![Screenshot (67)](https://github.com/svn23/Gen-AI/assets/102777649/08f799b0-d979-4ce0-be2d-a30c53dcf5b1)
 
 ## Tech Used
 
