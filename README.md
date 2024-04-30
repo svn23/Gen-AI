@@ -23,14 +23,8 @@ Google Gemini API to provide users with a comprehensive suite of advanced featur
 - [@subhajit](https://github.com/subhajet) 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-![PyPI - Implementation](https://img.shields.io/pypi/implementation/:packageName)
-[![PyPI version](https://badge.fury.io/py/global-chem.svg)](https://badge.fury.io/py/global-chem)
-![Repo Size](https://img.shields.io/github/repo-size/svn23/Gen-AI)
+![PyPI - Implementation](https://img.shields.io/pypi/implementation/:packageName)]
 ![GitHub language count](https://img.shields.io/github/languages/count/svn23/Gen-AI)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -40,8 +34,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Installation
 
